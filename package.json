@@ -1,0 +1,28 @@
+{
+  "name": "statMatch",
+  "version": "0.0.1",
+  "author": "shekhar chandra (Ranu) <shekhar.chandra@outlook.com>",
+  "description": "simpe twp-option statistic quiz",
+  "contributors": [
+    {
+      "name": "shekhar chandra",
+      "email": "shekhar.chandra@outlook.com"
+    }
+  ],
+  "main": "./server.js",
+  "keywords": [
+    "statistics",
+    "world bank",
+    "quiz",
+    "game"
+  ],
+  "dependencies": {
+    "jade": "*",
+    "express": "~3.1.0"
+  },
+  "noAnalyze": true,
+  "license": "Apache",
+  "engines": {
+    "node": ">=0.6.14"
+  }
+}

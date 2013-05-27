@@ -1,2 +1,0 @@
-statMatch server listening on port \\.\pipe\4ea8a3cc-6205-4422-923e-6be78632f2c8
-[90mGET / [32m200 [90m50ms - 176[0m
